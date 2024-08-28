@@ -1,0 +1,10 @@
+# UUID                                  	Group Name
+#
+4c895829f973c369a1ca6bb278e046bc43c530a3	adp-gs-servicemesh-team
+635bf574192a48b113aca71436182f3ef0bdd04f	adp-gs-servicemesh-admins
+759629d51e160d5f3d82a81a169a7f6bb0713549	ADP-Readers
+75973a73a677ad828f785b8178f31201a8a0b748	adp-gs-servicemesh-guardians
+c45bd8129cb909491c2d2cdd84e717ae4b165148	GitCA_Replication_DO_NOT_REMOVE
+f5ce6fccdec332d26b3c3aeb0391068a5da9b464	Replication_Gamma_Migration_DO_NOT_REMOVE
+global:Change-Owner                     	Change Owner
+user:adpuser                            	user/User for ADP Hub Aachen (adpuser)
